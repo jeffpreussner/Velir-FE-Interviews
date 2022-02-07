@@ -33,6 +33,10 @@ Latest Builds of Safari, Edge, Firefox, Chrome.
 
 In the project directory, you can run:
 
+### `npm install`
+
+Installs all necessary deps.
+
 ### `npm start`
 
 Runs the app in the development mode.\
