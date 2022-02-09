@@ -27,7 +27,7 @@ Feel free to submit notes with your pull request with for a anything that should
 
 ## Browser Support
 
-Latest Builds of Safari, Edge, Firefox, Chrome.
+Latest builds of Safari, Edge, Firefox, Chrome.
 
 ## Running the application
 
