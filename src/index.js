@@ -2,7 +2,7 @@ import "./index.scss";
 
 const cats = [{ 
   name: "Kodkod", 
-  size: 1.7 
+  size: 1.9 
 },{ 
   name: "Cheetah", 
   size: 52 
@@ -11,7 +11,7 @@ const cats = [{
   size: 45 
 },{ 
   name: "Rusty-spotted cat", 
-  size: 1.2 
+  size: 1.9 
 }];
 
 const names = null;
